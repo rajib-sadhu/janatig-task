@@ -1,4 +1,6 @@
-# React + Vite
+# Janatig Task
+
+#### Live link - [Website](https://rs-janatig.netlify.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
